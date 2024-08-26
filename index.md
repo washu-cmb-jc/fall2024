@@ -21,9 +21,11 @@ layout: home
 
 ## Schedule of Presentations 
 
+{% include_relative _schedules/schedules.md %}
+
 ----
 
-## Some [Prior Editions](https://www.cse.wustl.edu/~jbuhler/cmb-journal-club/) of the Journal Club
+### Some [Prior Editions](https://www.cse.wustl.edu/~jbuhler/cmb-journal-club/) of the Journal Club
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
