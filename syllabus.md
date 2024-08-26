@@ -45,7 +45,7 @@ To receive credit for Journal Club, you must do three things:
 
 These three factors are weighted roughly equally in assigning credit and grades.
 
-## Paper Selection and Scheduling of Presentations
+## Paper Selection
 The range of topics for each semester of Journal Club is negotiated at an initial organizational meeting. Individual papers and presentation dates are selected by each student, with suggestions and final approval from the course masters.
 
 Each student must select a paper at least five days before the meeting in which it is presented, to give others time to read the paper and submit responses.
