@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 description: Course Syllabus
-order: 3
+order: 1
 ---
 
 # Syllabus

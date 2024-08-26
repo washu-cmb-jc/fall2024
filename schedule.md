@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 description: Course Schedule
-order: 2
+order: 3
 ---
 
 ## Course Schedule
