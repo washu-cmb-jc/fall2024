@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: fall2024
+description: WashU CMB JC fall 2024
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://washu-cmb-jc.github.io/fall2024
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/washu-cmb-jc/fall2024
