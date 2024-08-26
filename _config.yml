@@ -9,3 +9,8 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   MyCanvas:
     - 'https://mycanvas.wustl.edu/'
+
+collections:
+  mycanvas:
+  schedule:
+  syllabus:
