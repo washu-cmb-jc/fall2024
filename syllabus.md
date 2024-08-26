@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: >-
-    Course Syllabus
+description: Course Syllabus
 ---
 
 # About

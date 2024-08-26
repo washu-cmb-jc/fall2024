@@ -21,7 +21,7 @@ layout: home
 
 ## Schedule of Presentations 
  
-[Go to Sign Up Sheet](https://docs.google.com/spreadsheets/d/1QKnrgr2_MJ7IrYmTftdoNFpBRdQJFMOiSoR8jTkDc3Y/edit?usp=sharing){: .btn }
+[Go to Sign Up Sheet](https://docs.google.com/spreadsheets/d/1QKnrgr2_MJ7IrYmTftdoNFpBRdQJFMOiSoR8jTkDc3Y/edit?usp=sharing){: .btn .btn-purple}
  
 {% include_relative _schedules/schedules.md %}
 
