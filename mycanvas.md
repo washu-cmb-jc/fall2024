@@ -2,7 +2,7 @@
 layout: page
 title: MyCanvas
 description: MyCanvas
-order: 2
+nav_order: 2
 ---
 
 # MyCanvas
