@@ -1,55 +1,14 @@
 ---
 layout: page
-title: Syllabus
-description: Course Syllabus
-order: 1
+title: MyCanvas
+description: MyCanvas
+order: 3
 ---
 
-# Syllabus
+# MyCanvas
 {:.no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
-
-Anyone is welcome to attend and participate in our Journal Club. Students seeking to receive credit for Journal Club have specific responsibilities described below.
-
-## Scope of the Journal Club
-The Computational Molecular Biology Journal Club is a forum for discussing important and recent research results in computational and systems biology. Biological areas of interest to this seminar are wide-ranging, including (but not limited to) genomics and other -omics, metabolic and regulatory models, discovery of genotype-phenotype associations, phylogenetics and evolution, metagenomics, and synthetic biology. The unifying theme is that the works being studied should make a substantial computational or formal contribution. This contribution may be analytic -- e.g. data mining, data analysis, and hypothesis generation -- or synthetic -- e.g. modeling, prediction, and design of new experiments. Papers that rely heavily on existing, nontrivial computational methods to produce important biological results are also welcome but should be presented together with an explanation of these underlying methods.
-
-Here is an extremely non-exhaustive list of conferences and journals that feature research relevant to the Journal Club:
-
-- Science;
-- Nature and its sub-journals, such as Nature Biotechnology;
-- Bioinformatics (Oxford University Press), PLOS Bioinformatics, and BMC Bioinformatics;
-- Journal of Computational Biology;
-- IEEE Transactions on Computational Biology and Bioinformatics;
-- Genome Research; Genome Biology
-- Nucleic Acids Research;
-- Proceedings of the National Academy of Sciences (PNAS);
-- The Conference on Research in Computational Molecular Biology (RECOMB) and its many satellite conferences;
-- The International Conference on Intelligent Systems for Molecular Biology (ISMB), and its sister forum, the European Conferences\ on Computational Biology (ECCB);
-- The Pacific Symposium on Biocomputing (PSB).
-
-## Student Responsibilities
-The following information applies only to students who are taking Journal Club for seminar credit, whether graded (for DBBS students) or ungraded (for CSE students).
-
-To receive credit for Journal Club, you must do three things:
-
-- Present a paper in at least one meeting of the Journal Club;
-- Attend the other meetings and remain engaged in discussion;
-- Submit written responses to each week's paper, prior to the meeting at which it is presented.
-
-These three factors are weighted roughly equally in assigning credit and grades.
-
-## Paper Selection
-The range of topics for each semester of Journal Club is negotiated at an initial organizational meeting. Individual papers and presentation dates are selected by each student, with suggestions and final approval from the course masters.
-
-Each student must select a paper at least five days before the meeting in which it is presented, to give others time to read the paper and submit responses.
 
 ## Written Responses
 To ensure that everyone is prepared to participate in each meeting at the highest level, we ask that students submit a written response to each scheduled paper in the week before it is presented. (If you are presenting that week, you don't need to submit a written response.) Written responses should be posted to the Journal Club's Canvas discussion forum. To reach the forum, go to [mycanvas.wustl.edu](mycanvas.wustl.edu), log in, and select the course "BIOL.5496.01". (You should select this course even if you are enrolled in CSE7800.) Go to the discussions page, which will show the "Paper Responses" forum where you will post your responses.
