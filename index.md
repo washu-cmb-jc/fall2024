@@ -15,7 +15,7 @@ layout: home
 
 ----
 
-### **Overview:** Participants in the Journal Club present recent published research in the areas of computational molecular biology, systems biology, and bioinformatics. Every student receiving credit for participation must present a paper at one meeting of the Journal Club and must otherwise participate as described in the [course syllabus](syllabus.md). Other students, postdocs, faculty, and staff are welcome to attend and participate.
+### **Overview:** Participants in the Journal Club present recent published research in the areas of computational molecular biology, systems biology, and bioinformatics. Every student receiving credit for participation must present a paper at one meeting of the Journal Club and must otherwise participate as described in the [course syllabus](./syllabus.md). Other students, postdocs, faculty, and staff are welcome to attend and participate.
 
 ----
 
