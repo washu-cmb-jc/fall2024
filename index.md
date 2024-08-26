@@ -3,6 +3,13 @@ title: Home
 layout: home
 ---
 
+{% assign sorted_pages = site.pages | sort: 'order' %}
+<ul>
+{% for page in sorted_pages %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
 # Computational Molecular Biology Journal Club
 
 ## Washington University, Fall 2024
